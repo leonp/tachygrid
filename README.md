@@ -6,7 +6,7 @@ A small grid module for Tachyons CSS.
 
 [Tachyons](http://tachyons.io) is an atomic CSS framework which comes with a flexbox module, but no CSS grid. Tachygrid provides just that, along with some opinionated layouts (i.e. halves, thirds, quarters, and two main/sidebar combinations, covering 99.99% of my layout requirements).
 
-## Namepacing
+## Namespacing
 
 All Tachygrids classes are namespaced c-, so you can use it with Tachyons with no problems. The example references a copy of Tachyons 4.10.0 and an additional file with the grid CSS.
 
